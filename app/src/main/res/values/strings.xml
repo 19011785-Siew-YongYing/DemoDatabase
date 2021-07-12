@@ -3,4 +3,6 @@
     <string name="btnInsert">INSERT</string>
     <string name="btnGetTasks">GET TASKS</string>
     <string name="tvResults" />
+    <string name="editTasks">Enter New Tasks</string>
+    <string name="editDate">Enter Date</string>
 </resources>
